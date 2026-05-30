@@ -74,7 +74,7 @@ I currently run JS Data Science Services, where I help organizations turn comple
 
 I’m interested in projects where the hard part is not just fitting a model, but asking the right question, understanding the data, making assumptions explicit, and communicating results clearly.
 
-I especially enjoy the creating the part of the analysis where the results become clear: charts, dashboards, and explanations that make complex findings understandable to people who are not statisticians.
+I especially enjoy creating the part of the analysis where the results become clear: charts, dashboards, and explanations that make complex findings understandable to people who are not statisticians.
 
 
 [Website](https://www.jsdatascience.com/)
