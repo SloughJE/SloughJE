@@ -68,7 +68,7 @@ That interest eventually led me to a Master’s in Statistics, after completing 
 
 I have over 10 years of experience in applied data science and statistics across public health, healthcare, cybersecurity, aerospace, hospitality, utilities, manufacturing, government (USDA, NASA, FAA), and consulting.
 
-Much of my early data science work was in consulting, where I worked on projects for clients across several industries, including aviation and air-traffic management projects involving the FAA and NASA. 
+Much of my early data science work was in consulting, where I worked on projects for clients across several industries, including aviation and air-traffic management projects for the FAA and NASA. 
 I contributed machine-learning modeling for aircraft landing-time prediction and co-authored a related paper with NASA researchers and collaborators: [A Machine Learning Approach to Predict Aircraft Landing Times using Mediated Predictions from Existing Systems](https://ntrs.nasa.gov/api/citations/20210017594/downloads/20210017594_Wesely_Aviation2021_paper.pdf). 
 
 I currently run JS Data Science Services, where I help organizations turn complex data into useful models, dashboards, reports, and analytical tools.
