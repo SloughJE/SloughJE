@@ -17,7 +17,7 @@ Most of my work sits at the intersection of applied statistics and data science,
 Automated public-health surveillance dashboard for identifying potential outbreaks of nationally notifiable diseases in the United States.
 
 - CDC NNDSS data
-- DeepAR Time-series forecasting and outbreak thresholding
+- DeepAR time-series forecasting and outbreak thresholding
 - Automated dashboard built with Plotly Dash and AWS
 
 [Live dashboard](https://outbreak-tracker.com/)
@@ -73,8 +73,7 @@ I currently run JS Data Science Services, where I help organizations turn comple
 
 I’m interested in projects where the hard part is not just fitting a model, but asking the right question, understanding the data, making assumptions explicit, and communicating results clearly.
 
-I especially enjoy the stage of analysis where the results become clear: charts, dashboards, and explanations that make complex findings understandable to people who are not statisticians or data scientists.
-
+I especially enjoy the stage of analysis where results are communicated: turning analytical findings into clear charts, dashboards, and explanations that people who are not statisticians or data scientists can understand and use.
 
 [Website](https://www.jsdatascience.com/)
 [LinkedIn](https://www.linkedin.com/in/johneslough/)
